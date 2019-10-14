@@ -9,5 +9,5 @@ You can find the live version of this ~here~
 All source code used is available jointly under the MIT License. See [LICENSE.md](https://github.com/rails/rails/blob/master/activerecord/MIT-LICENSE) for details.
 
 # Authors
-[Kerron King](https://github.com/KerronKing)
+[Kerron King](https://github.com/KerronKing)\
 [Andres Moya](https://github.com/AndresFMoya)
