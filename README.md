@@ -1,6 +1,6 @@
 # Rails Micro-Reddit App
 
-This is a Microverse Rails project. The objective is to build build the data structures necessary to support link submissions and commenting.
+This is a Microverse Rails project. The objective is to build the data structures necessary to support link submissions and commenting.
 
 You can find the live version of this ~here~
 
