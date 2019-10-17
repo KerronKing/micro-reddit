@@ -1,24 +1,13 @@
-# README
+# Rails Micro-Reddit App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Microverse Rails project. The objective is to build build the data structures necessary to support link submissions and commenting.
 
-Things you may want to cover:
+You can find the live version of this ~here~
 
-* Ruby version
+# License
 
-* System dependencies
+All source code used is available jointly under the MIT License. See [LICENSE.md](https://github.com/rails/rails/blob/master/activerecord/MIT-LICENSE) for details.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Authors
+[Kerron King](https://github.com/KerronKing)\
+[Andres Moya](https://github.com/AndresFMoya)
